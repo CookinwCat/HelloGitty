@@ -1,4 +1,5 @@
-﻿string[] zajmy = { "Hry", "Cestování", "Fotbal" };
+﻿Console.ForegroundColor = ConsoleColor.Magenta;
+string[] zajmy = { "Hry", "Cestování", "Fotbal" };
 
 Console.WriteLine("Ahoj jsem Marek Flach, chodím na SŠ Educhem a baví mě:");
 
