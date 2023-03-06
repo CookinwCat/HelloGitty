@@ -1,4 +1,4 @@
-# HelloGitty
+# *HelloGitty*
 ###seznámení
 https://educhem.cz
 
